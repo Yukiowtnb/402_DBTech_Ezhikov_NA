@@ -3,7 +3,7 @@
         'name' => 'yukio/guess-number',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'c1316b0eef332b0a14d79d0212455428206e3c05',
+        'reference' => 'e7d6905e4a991f957da300b51e76fdc24bdcaf2c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -33,7 +33,7 @@
         'yukio/guess-number' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'c1316b0eef332b0a14d79d0212455428206e3c05',
+            'reference' => 'e7d6905e4a991f957da300b51e76fdc24bdcaf2c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
